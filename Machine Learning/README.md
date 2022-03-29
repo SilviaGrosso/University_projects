@@ -8,4 +8,4 @@ regional burden of stroke during 1990–2010: findings from the Global Burden of
 2010 l’incidenza di ictus - standardizzata per età - è diminuita del 12% nei paesi ad alto reddito ed aumentata della stessa percentuale in
 quelli a basso e medio reddito. Si rendono dunque necessari ulteriori studi per approfondire la relazione che intercorre tra la manifestazione
 dell’ictus e i principali fattori favorenti. L’elaborato si propone di indagare attraverso modelli di classificazione le possibili caratteristiche
-legate a questa malattia, al fine di predirne la manifestazione.
+legate a questa malattia, al fine di predirne la manifestazione utilizzando la piattaforma open source KNIME.
